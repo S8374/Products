@@ -1,0 +1,56 @@
+/* Custom Swiper Styles */
+.mySwiper {
+  position: relative;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s ease;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  font-size: 20px;
+}
+
+/* Autoplay progress style */
+.autoplay-progress {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.autoplay-progress svg {
+  --progress: 1;
+  stroke-dashoffset: calc(var(--progress) * 31.4);
+  stroke-width: 2px;
+  stroke: white;
+  fill: none;
+  width: 48px;
+  height: 48px;
+  transform: rotate(-90deg);
+  transition: stroke-dashoffset 0.3s linear;
+}
+
+.autoplay-progress span {
+  position: absolute;
+  color: white;
+  font-size: 16px;
+}

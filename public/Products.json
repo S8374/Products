@@ -1,0 +1,412 @@
+[
+    {
+      "id": 1,
+      "title": "Girls' Floral Dress",
+      "price": 29.99,
+      "img": [
+       
+            "https://rukminim2.flixcart.com/image/640/768/xif0q/shopsy-kids-dress/i/e/t/4-5-years-kido-k-m-1-kidorani-original-imahf2a2jgczabwc.jpeg?q=60&crop=false",
+            "https://rukminim2.flixcart.com/image/640/768/xif0q/shopsy-kids-dress/e/m/p/4-5-years-kido-k-m-1-kidorani-original-imahf2a2xb6zmh9p.jpeg?q=60&crop=false"  ,
+            "https://rukminim2.flixcart.com/image/640/768/xif0q/shopsy-kids-dress/o/c/s/4-5-years-kido-k-m-1-kidorani-original-imahf2a2aszheyey.jpeg?q=60&crop=false"
+     ],
+      "rating": 4.5,
+      "productDetails": "A beautiful floral dress made of 100% cotton, perfect for summer.",
+      "quantity": 50,
+      "size": ["XS", "S", "M", "L"],
+      "brand": "Flower Kids",
+      "colors": ["Red", "Blue", "Yellow"],
+       "category": "Girl",
+      "reviews": [
+        { "user": "Emily", "comment": "My daughter loved it!", "rating": 5 },
+        { "user": "Sophia", "comment": "Nice fabric but runs a bit small.", "rating": 4 }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Boys' Graphic T-Shirt",
+      "price": 19.99,
+      "img": [
+          "https://rukminim2.flixcart.com/image/640/768/xif0q/kids-t-shirt/n/j/x/18-24-months-mm-2165-mini-myn-original-imah4m9kqpp4rphy.jpeg?q=60&crop=false",
+          "https://rukminim2.flixcart.com/image/640/768/xif0q/kids-t-shirt/z/k/n/18-24-months-mm-2165-mini-myn-original-imah4m9kzgnzjseb.jpeg?q=60&crop=false",
+          "https://rukminim2.flixcart.com/image/640/613/xif0q/kids-t-shirt/y/n/5/18-24-months-mm-2164-2165-mini-myn-original-imah4m9khrg355va.jpeg?q=60&crop=false"
+      ],
+      "rating": 4.2,
+      "productDetails": "Cool and comfortable graphic t-shirt with vibrant colors.",
+      "quantity": 70,
+      "size": ["S", "M", "L", "XL"],
+      "brand": "Urban Boys",
+      "colors": ["Black", "White", "Green"],
+       "category": "Boys",
+      "reviews": [
+        { "user": "Lucas", "comment": "Great quality and print!", "rating": 5 },
+        { "user": "Jackson", "comment": "The fit was a little loose.", "rating": 3 }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Girls' Denim Jacket",
+      "price": 45.99,
+      "img": ["https://rukminim2.flixcart.com/image/640/625/xif0q/shopsy-jacket/a/w/9/28-multi-c-jacket-clarify-girls-original-imagqnynetdhhszm.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/640/768/xif0q/shopsy-jacket/i/f/a/28-multi-c-jacket-clarify-girls-original-imagqnyngdrv5r6b.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/640/625/xif0q/shopsy-jacket/a/w/9/28-multi-c-jacket-clarify-girls-original-imagqnynetdhhszm.jpeg?q=60&crop=false"
+    ],
+      "rating": 4.7,
+      "productDetails": "Classic denim jacket with a modern fit and soft lining.",
+      "quantity": 35,
+      "size": ["S", "M", "L", "XL"],
+      "brand": "Trend Kids",
+      "colors": ["Light Blue", "Dark Blue"],
+       "category": "Girl",
+      "reviews": [
+        { "user": "Ava", "comment": "Stylish and warm, perfect for fall.", "rating": 5 },
+        { "user": "Isabella", "comment": "Loved it but runs a bit big.", "rating": 4 }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Boys' Cargo Shorts",
+      "price": 24.99,
+      "img": [
+        "https://rukminim2.flixcart.com/image/640/381/xif0q/kids-short/w/d/3/2-3-years-fsh01-p2-2-3years-ircon-original-imah32qxgegfzgwe.jpeg?q=60&crop=false" ,
+        "https://rukminim2.flixcart.com/image/640/766/xif0q/kids-short/t/y/g/5-6-years-sbm2-5-6years-fashnest-original-imah35fktvmccype.jpeg?q=60&crop=false",
+        "https://rukminim2.flixcart.com/image/640/381/xif0q/kids-short/w/d/3/2-3-years-fsh01-p2-2-3years-ircon-original-imah32qxgegfzgwe.jpeg?q=60&crop=false"
+      ],
+      "rating": 4.3,
+      "productDetails": "Durable and comfortable cargo shorts with plenty of pockets.",
+      "quantity": 60,
+      "size": ["S", "M", "L", "XL"],
+      "brand": "Adventure Boys",
+      "colors": ["Khaki", "Navy", "Olive"],
+       "category": "Boys",
+      "reviews": [
+        { "user": "Ethan", "comment": "Perfect for outdoor activities.", "rating": 5 },
+        { "user": "James", "comment": "Good quality, but I wish they were a bit longer.", "rating": 4 }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Girls' Puffer Coat",
+      "price": 69.99,
+      "img": ["https://rukminim2.flixcart.com/image/640/640/kgfg2vk0/jacket/p/f/f/1-2-years-bnebb10147-pnk-bold-n-elegant-original-imafwzy6kr2g5fxj.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/640/640/kgfg2vk0/jacket/p/f/f/1-2-years-bnebb10147-pnk-bold-n-elegant-original-imafwzy6xkpgfdy9.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/640/640/kgfg2vk0/jacket/p/f/f/1-2-years-bnebb10147-pnk-bold-n-elegant-original-imafwzy6kr2g5fxj.jpeg?q=60&crop=false"
+    ],
+      "rating": 4.8,
+      "productDetails": "Warm and stylish puffer coat, ideal for winter.",
+      "quantity": 20,
+      "size": ["S", "M", "L"],
+      "brand": "Winter Glam",
+      "colors": ["Pink", "Purple", "Grey"],
+       "category": "Girl",
+      "reviews": [
+        { "user": "Mia", "comment": "Super warm and looks great!", "rating": 5 },
+        { "user": "Charlotte", "comment": "A bit pricey but worth it.", "rating": 4 }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Boys' Hoodie",
+      "price": 29.99,
+      "img": ["https://rukminim2.flixcart.com/image/1200/1440/xif0q/sweatshirt/a/i/c/8-9-years-1301-black-sarte-fashion-original-imagtt8mu7gmhphz.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/1200/1440/xif0q/sweatshirt/d/q/f/8-9-years-1301-black-sarte-fashion-original-imagtt8mda82gh9p.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/1200/1440/xif0q/sweatshirt/t/m/y/8-9-years-1301-black-sarte-fashion-original-imagtt8mmcp2nd9z.jpeg?q=60&crop=false"
+    ],
+      "rating": 4.6,
+      "productDetails": "Soft and cozy hoodie with a modern fit.",
+      "quantity": 40,
+      "size": ["S", "M", "L", "XL"],
+      "brand": "Casual Comfort",
+      "colors": ["Grey", "Blue", "Red"],
+       "category": "Boys",
+      "reviews": [
+        { "user": "Oliver", "comment": "My son loves it!", "rating": 5 },
+        { "user": "Henry", "comment": "The material is really soft.", "rating": 4 }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Girls' Leggings",
+      "price": 15.99,
+      "img": [
+        "https://rukminim2.flixcart.com/image/640/541/l2rwzgw0/shopsy-kids-legging/c/w/i/3-4-years-kids-p5-43-2-3years-fashnest-original-imagefuhyvanzcsz.jpeg?q=60&crop=false",
+        "https://rukminim2.flixcart.com/image/640/768/l0vbukw0/kids-legging/3/3/7/11-12-years-legkdp5-01-11-12y-faiqa-original-imagck3fzhvubgee.jpeg?q=60&crop=false",
+        "https://rukminim2.flixcart.com/image/640/541/l2rwzgw0/shopsy-kids-legging/c/w/i/3-4-years-kids-p5-43-2-3years-fashnest-original-imagefuhyvanzcsz.jpeg?q=60&crop=false"
+      ],
+      "rating": 4.4,
+      "productDetails": "Stretchy and comfortable leggings, great for casual wear.",
+      "quantity": 100,
+      "size": ["XS", "S", "M", "L", "XL"],
+      "brand": "Active Kids",
+      "colors": ["Black", "Pink", "Purple"],
+       "category": "Girl",
+      "reviews": [
+        { "user": "Amelia", "comment": "Very comfy, my daughter loves them.", "rating": 5 },
+        { "user": "Harper", "comment": "Good fit but fades after a few washes.", "rating": 3 }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Boys' Polo Shirt",
+      "price": 25.99,
+      "img": ["https://rukminim2.flixcart.com/image/640/595/xif0q/kids-t-shirt/q/g/g/3-4-years-boys-polotshirts-pk-scnprt1-bk-neuvin-original-imafa9dkkyhyj2d3-bb.jpeg?q=60&crop=false",
+       "https://rukminim2.flixcart.com/image/640/592/xif0q/kids-t-shirt/v/9/l/9-10-years-boys-polotshirts-pk-scnprt1-bk-neuvin-original-imaggnfxbd2kppzg.jpeg?q=60&crop=false",
+       "https://rukminim2.flixcart.com/image/640/462/xif0q/kids-t-shirt/y/p/a/9-10-years-boys-polotshirts-pk-scnprt1-bk-neuvin-original-imaggnfxghgefyhe.jpeg?q=60&crop=false"
+      ] ,
+      "rating": 4.5,
+      "productDetails": "Classic polo shirt, perfect for casual and semi-formal occasions.",
+      "quantity": 80,
+      "size": ["S", "M", "L", "XL"],
+      "brand": "Smart Boys",
+      "colors": ["White", "Blue", "Grey"],
+       "category": "Boys",
+      "reviews": [
+        { "user": "Sebastian", "comment": "Great for school events.", "rating": 5 },
+        { "user": "Alexander", "comment": "Good quality but shrank a little.", "rating": 4 }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Girls' Skirt",
+      "price": 22.99,
+      "img":[ "https://rukminim2.flixcart.com/image/440/457/xif0q/skirt/x/p/g/3-4-years-ss-035-navy2-rcube-original-imafwuzyyhprbdt7-bb.jpeg?q=60g",
+      "https://rukminim2.flixcart.com/image/640/640/kgo0pzk0/skirt/x/p/g/5-6-years-ss-035-navy2-rcube-original-imafwuzybcga8rnt.jpeg?q=60&crop=false" ,
+      "https://rukminim2.flixcart.com/image/640/640/kgo0pzk0/skirt/x/p/g/3-4-years-ss-035-navy2-rcube-original-imafwuzyyt3bpwc5.jpeg?q=60&crop=false"
+    ],
+      "rating": 4.2,
+      "productDetails": "Flowy and lightweight skirt, ideal for warm days.",
+      "quantity": 45,
+      "size": ["XS", "S", "M", "L"],
+      "brand": "Pretty Girl",
+      "colors": ["Pink", "White", "Blue"],
+       "category": "Girl",
+      "reviews": [
+        { "user": "Ella", "comment": "Very cute and comfortable.", "rating": 5 },
+        { "user": "Lily", "comment": "Fits well, but the color was a bit different than expected.", "rating": 3 }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Boys' Jogger Pants",
+      "price": 28.99,
+      "img": [
+        "https://rukminim2.flixcart.com/image/640/640/kxdl3m80/kids-track-pant/u/a/k/2-3-years-mnfbstrk002-mist-n-fogg-original-imag9ua9mszkxzvm.jpeg?q=60&crop=false",
+        "https://rukminim2.flixcart.com/image/640/640/kxdl3m80/kids-track-pant/r/z/d/2-3-years-mnfbstrk002-mist-n-fogg-original-imag9ua9hqxabe9z.jpeg?q=60&crop=false",
+        "https://rukminim2.flixcart.com/image/640/768/ktuewsw0/kids-track-pant/z/p/s/7-8-years-mnfbstrk-mist-n-fogg-original-imag73zu6ngh7ay6.jpeg?q=60&crop=false"
+      ],
+      "rating": 4.7,
+      "productDetails": "Comfortable jogger pants, perfect for playtime or lounging.",
+      "quantity": 55,
+      "size": ["S", "M", "L", "XL"],
+      "brand": "Comfy Kids",
+      "colors": ["Black", "Grey", "Navy"],
+       "category": "Boys",
+      "reviews": [
+        { "user": "Benjamin", "comment": "My son loves these for sports!", "rating": 5 },
+        { "user": "Daniel", "comment": "Nice fit and very comfortable.", "rating": 4 }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Girls' Party Dress",
+      "price": 39.99,
+      "img": [
+        "https://rukminim2.flixcart.com/image/640/645/xif0q/shopsy-kids-dress/6/4/u/12-18-months-old-mix-meticulous-original-imagxbrudgcfvzgc.jpeg?q=60&crop=false",
+        "https://rukminim2.flixcart.com/image/640/692/xif0q/shopsy-kids-dress/y/o/z/9-12-months-gb-meticulous-original-imagxazbnhfcwzk3.jpeg?q=60&crop=false",
+        "https://rukminim2.flixcart.com/image/640/693/xif0q/shopsy-kids-dress/3/a/u/9-12-months-gb-meticulous-original-imagxazbg85en6jt.jpeg?q=60&crop=false"
+      ],
+      "rating": 4.6,
+      "productDetails": "Elegant party dress with lace details and a tulle skirt.",
+      "quantity": 25,
+      "size": ["S", "M", "L"],
+      "brand": "Princess Kids",
+      "colors": ["Pink", "White", "Lavender"],
+       "category": "Girl",
+      "reviews": [
+        { "user": "Sofia", "comment": "Perfect for special occasions.", "rating": 5 },
+        { "user": "Avery", "comment": "Very pretty but a bit tight in the waist.", "rating": 4 }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Boys' Formal Blazer",
+      "price": 59.99,
+      "img":[
+        "https://rukminim2.flixcart.com/image/640/768/xif0q/waistcoat/q/2/v/1-2-years-blazerset-toxego-original-imagf4yntbhf8hvs-bb.jpeg?q=60&crop=false" ,
+        "https://rukminim2.flixcart.com/image/640/768/km57hjk0/waistcoat/m/5/t/1-2-years-blazerset-toxego-original-imagf4ynqvnayvf5.jpeg?q=60&crop=false",
+        "https://rukminim2.flixcart.com/image/640/768/km57hjk0/waistcoat/w/k/e/1-2-years-blazerset-toxego-original-imagf4ynjkbqv93t.jpeg?q=60&crop=false"
+      ],
+      "rating": 4.9,
+      "productDetails": "Sharp formal blazer for special occasions.",
+      "quantity": 15,
+      "size": ["M", "L", "XL"],
+      "brand": "Formal Kids",
+      "colors": ["Black", "Navy"],
+       "category": "Boys",
+      "reviews": [
+        { "user": "Matthew", "comment": "Excellent quality, looks great!", "rating": 5 },
+        { "user": "Jack", "comment": "A bit expensive, but worth it.", "rating": 4 }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Girls' Ballet Flats",
+      "price": 24.99,
+      "img": [
+        "https://rukminim2.flixcart.com/image/640/768/xif0q/shoe/m/o/t/3-b-b40-3-denill-peach-original-imah3d3amue5hxa8.jpeg?q=60&crop=false",
+        "https://rukminim2.flixcart.com/image/640/320/xif0q/shoe/b/j/8/3-b-b40-3-denill-peach-original-imah3d3a8xeruzge.jpeg?q=60&crop=false",
+        "https://rukminim2.flixcart.com/image/640/493/xif0q/shoe/u/d/h/3-b-b40-3-denill-peach-original-imah3d3an476ekdb.jpeg?q=60&crop=false"
+      ],
+      "rating": 4.3,
+      "productDetails": "Comfortable and stylish ballet flats with a bow detail.",
+      "quantity": 90,
+      "size": ["6", "7", "8", "9", "10"],
+      "brand": "Tiny Steps",
+      "colors": ["Black", "White", "Pink"],
+       "category": "Girl",
+      "reviews": [
+        { "user": "Abigail", "comment": "My daughter loves wearing these.", "rating": 5 },
+        { "user": "Emily", "comment": "Cute but not very durable.", "rating": 3 }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Boys' Sneakers",
+      "price": 34.99,
+      "img": ["https://rukminim2.flixcart.com/image/440/457/xif0q/shopsy-shoe/p/u/u/10-ogiy3-10-ezdezario-off-white-original-imahykzfqtwnpzbh.jpeg?q=60",
+    "https://rukminim2.flixcart.com/image/640/616/xif0q/shopsy-shoe/r/w/o/10-ogiy3-10-ezdezario-off-white-original-imahykzf9cpz6qgc.jpeg?q=60&crop=false",
+    "https://rukminim2.flixcart.com/image/640/768/xif0q/shopsy-shoe/q/e/k/10-ogiy3-10-ezdezario-off-white-original-imahykzfgw9zgzzn.jpeg?q=60&crop=false"
+    ],
+      "rating": 4.7,
+      "productDetails": "Lightweight and durable sneakers, perfect for active kids.",
+      "quantity": 120,
+      "size": ["6", "7", "8", "9", "10", "11"],
+      "brand": "Active Boys",
+      "colors": ["Black", "Blue", "Red"],
+       "category": "Boys",
+      "reviews": [
+        { "user": "William", "comment": "Great shoes for running.", "rating": 5 },
+        { "user": "Logan", "comment": "Good fit and support.", "rating": 4 }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Girls' Swimwear Set",
+      "price": 29.99,
+      "img": ["https://rukminim2.flixcart.com/image/640/768/l01blow0/swimsuit/q/i/k/11-12-years-girls-swim-wear-set-love-bra-boyshorts-pink-young-original-imagbwpk8bh5j526.jpeg?q=60&crop=false",
+    "https://rukminim2.flixcart.com/image/1200/1440/l01blow0/swimsuit/x/i/c/11-12-years-girls-swim-wear-set-love-bra-boyshorts-pink-young-original-imagbwpk2wrqkbfy.jpeg?q=60&crop=false",
+"https://rukminim2.flixcart.com/image/1200/1440/l01blow0/swimsuit/8/f/h/11-12-years-girls-swim-wear-set-love-bra-boyshorts-pink-young-original-imagbwpkgva5kqvy.jpeg?q=60&crop=false"],
+      "rating": 4.5,
+      "productDetails": "Cute and comfortable swimwear set with a matching hat.",
+      "quantity": 75,
+      "size": ["XS", "S", "M", "L"],
+      "brand": "Beach Girls",
+       "category": "Girl",
+      "colors": ["Pink", "Blue", "Yellow"],
+      "reviews": [
+        { "user": "Zoe", "comment": "Adorable set for the beach!", "rating": 5 },
+        { "user": "Layla", "comment": "Fits well, but the hat is a bit small.", "rating": 4 }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Boys' Winter Coat",
+      "price": 79.99,
+      "img": [
+        "https://rukminim2.flixcart.com/image/640/590/xif0q/sweater/2/2/z/11-12-years-nt-rebiva-original-imah34zbbfz5akng.jpeg?q=60&crop=false",
+        "https://rukminim2.flixcart.com/image/640/618/xif0q/sweater/c/x/g/3-4-years-st-avelly-original-imah28fybagpztat.jpeg?q=60&crop=false" ,
+        "https://rukminim2.flixcart.com/image/640/590/xif0q/sweater/q/o/y/11-12-years-nt-rebiva-original-imah34zbyh8tqmqh.jpeg?q=60&crop=false"
+      ],
+      "rating": 4.9,
+      "productDetails": "Warm and stylish winter coat, perfect for cold weather.",
+      "quantity": 30,
+      "size": ["S", "M", "L", "XL"],
+      "brand": "Winter Warriors",
+      "colors": ["Black", "Grey", "Navy"],
+       "category": "Boys",
+      "reviews": [
+        { "user": "Joseph", "comment": "Excellent quality and super warm.", "rating": 5 },
+        { "user": "Mason", "comment": "A bit heavy but really warm.", "rating": 4 }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Girls' Rain Boots",
+      "price": 19.99,
+      "img": ["https://rukminim2.flixcart.com/image/440/457/xif0q/raincoat/y/k/f/8-9-years-schooltimes-aristocrat-original-imahfs63rqwmqxpg.jpeg?q=60",
+    "https://rukminim2.flixcart.com/image/640/768/xif0q/raincoat/v/q/9/8-9-years-schooltimes-aristocrat-original-imahfs63gyfhuc4v.jpeg?q=60&crop=false",
+    "https://rukminim2.flixcart.com/image/640/768/xif0q/raincoat/n/g/w/8-9-years-schooltimes-aristocrat-original-imahfs6393xgvs7f.jpeg?q=60&crop=false"
+],
+      "rating": 4.4,
+      "productDetails": "Waterproof rain boots with fun designs.",
+      "quantity": 85,
+      "size": ["5", "6", "7", "8"],
+      "brand": "Puddle Jumpers",
+      "colors": ["Yellow", "Pink", "Green"],
+       "category": "Girl",
+      "reviews": [
+        { "user": "Lillian", "comment": "Perfect for rainy days.", "rating": 5 },
+        { "user": "Eleanor", "comment": "Good quality but a little stiff.", "rating": 3 }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Boys' Beanie Hat",
+      "price": 12.99,
+      "img": ["https://rukminim2.flixcart.com/image/440/457/xif0q/shopsy-kids-cap/y/f/i/1-2-years-shopsy-winter-knitted-hat-trubliz-original-imah4df4cgg78gcs.jpeg?q=60",
+    "https://rukminim2.flixcart.com/image/640/768/xif0q/shopsy-kids-cap/h/h/o/1-2-years-shopsy-pom-pom-knitted-hat-1-trubliz-original-imah4df4ktqwbjt8.jpeg?q=60&crop=false",
+    "https://rukminim2.flixcart.com/image/640/768/xif0q/shopsy-kids-cap/h/r/b/1-2-years-shopsy-pom-pom-knitted-hat-1-trubliz-original-imah4df3hqzwc4hg.jpeg?q=60&crop=false"
+    ],
+      "rating": 4.2,
+      "productDetails": "Cozy beanie hat, great for winter.",
+      "quantity": 100,
+      "size": ["One Size"],
+      "brand": "Warm Heads",
+      "colors": ["Grey", "Black", "Blue"],
+       "category": "Boys",
+      "reviews": [
+        { "user": "Michael", "comment": "My son loves it, keeps him warm.", "rating": 5 },
+        { "user": "Levi", "comment": "Good hat but the fit is a bit tight.", "rating": 3 }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Girls' Hair Accessory Set",
+      "price": 9.99,
+      "img": ["https://rukminim2.flixcart.com/image/640/640/l0wrafk0/shopsy-hair-accessory/r/2/u/1-piece-unique-concept-hair-clutcher-for-girls-women-1-laddu-original-imagchmyzh52emzv.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/640/640/l0wrafk0/shopsy-hair-accessory/g/c/i/1-piece-unique-concept-hair-clutcher-for-girls-women-1-laddu-original-imagchmynnjubxhx.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/640/640/l0wrafk0/shopsy-hair-accessory/i/g/u/1-piece-unique-concept-hair-clutcher-for-girls-women-1-laddu-original-imagchmyhvf64z8r.jpeg?q=60&crop=false"
+    ],
+      "rating": 4.3,
+      "productDetails": "Cute hair accessory set including clips and bands.",
+      "quantity": 150,
+      "brand": "Pretty Girl",
+      "colors": ["Pink", "Yellow", "Purple"],
+       "category": "Girl",
+      "reviews": [
+        { "user": "Nora", "comment": "My daughter loves these accessories.", "rating": 5 },
+        { "user": "Scarlett", "comment": "Cute but the clips are a bit small.", "rating": 3 }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Boys' Basketball Shorts",
+      "price": 18.99,
+      "img": [
+       "https://rukminim2.flixcart.com/image/640/640/xif0q/kids-short/g/d/q/14-15-years-bottom-cut-shorts-5p-winn-original-imagxuxaezc8p9yx.jpeg?q=60&crop=false", 
+       "https://rukminim2.flixcart.com/image/640/640/xif0q/kids-short/u/8/y/14-15-years-bottom-cut-shorts-5p-winn-original-imagxuxazsbkhvuu.jpeg?q=60&crop=false",
+       "https://rukminim2.flixcart.com/image/640/640/xif0q/kids-short/w/d/p/14-15-years-bottom-cut-shorts-5p-winn-original-imagxuxadrthqeka.jpeg?q=60&crop=false"
+      ],
+      "rating": 4.6,
+      "productDetails": "Breathable and comfortable basketball shorts for active kids.",
+      "quantity": 90,
+      "size": ["S", "M", "L", "XL"],
+      "brand": "Hoop Dreams",
+      "colors": ["Black", "White", "Red"],
+       "category": "Boys",
+      "reviews": [
+        { "user": "Carter", "comment": "Great for sports, my son loves them!", "rating": 5 },
+        { "user": "Jayden", "comment": "Good fit but material is a little thin.", "rating": 4 }
+      ]
+    }
+  ]
+  
